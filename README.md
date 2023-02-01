@@ -1,8 +1,8 @@
 Hi 👋 My name is Gabriel Ahiamata
 =================================
 
-Front-End Software Engineer
----------------------------
+Front-End Software Developer
+----------------------------
 
 I am a Front-End Software Engineer currently enrolled at Alx Software Engineering School, expected to graduate on April 21st, 2023, and a graduate from the University of Ghana College of Education. I am passionate about building intuitive and visually appealing web applications and love to employ the best practices in the field in my projects.
 
@@ -32,8 +32,6 @@ I am a Front-End Software Engineer currently enrolled at Alx Software Engineerin
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Ahiamata-Gabriel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-ahiamata-6739b51b0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@AhiamataGabriel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
