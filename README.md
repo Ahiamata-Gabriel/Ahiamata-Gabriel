@@ -7,8 +7,9 @@ Front-End Software Engineer
 I am a Front-End Software Engineer currently enrolled at Alx Software Engineering School, expected to graduate on April 21st, 2023, and a graduate from the University of Ghana College of Education. I am passionate about building intuitive and visually appealing web applications and love to employ the best practices in the field in my projects.
 
 * 🌍  I'm based in Ghana - Accra
+* 🖥️  See my portfolio at [gabrielahiamata.tech](http://gabrielahiamata.tech)
 * ✉️  You can contact me at [ahiamatamawuli@gmail.com](mailto:ahiamatamawuli@gmail.com)
-* 🧠  I'm learning React and Typscript
+* 🧠  I'm learning Typscript
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Loves Soccer.
 
