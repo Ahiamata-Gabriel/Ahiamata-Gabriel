@@ -4,7 +4,7 @@ Hi 👋 My name is Gabriel Ahiamata
 Front-End Software Engineer
 ---------------------------
 
-I am a Front-End Software Engineer currently enrolled at Alx Software Engineering School, expected to graduate on April 21st, 2023, and a graduate from the University of Ghana College of Education. I am passionate about building intuitive and visually appealing web applications and love to employ the best practices in the field in my projects.
+I'm Gabriel Ahiamata, a front-end software engineer with expertise in HTML, CSS, and JavaScript. I completed the ALX Software Engineering program and held a degree from the University of Ghana College of Education. With a passion for creating user-friendly web applications, I specialize in React.js and Typescript. I thrive on collaboration, communication, and problem-solving, delivering high-quality work while staying up-to-date with industry trends. You can explore my page to see examples of my past projects and reach out to discuss potential collaborations. Let's create impactful experiences together.
 
 * 🌍  I'm based in Ghana - Accra
 * 🖥️  See my portfolio at [gabrielahiamata.tech](http://gabrielahiamata.tech)
